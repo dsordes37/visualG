@@ -20,7 +20,7 @@ se area<=20 entao
    senao
       se area<=40 então
             escreval("Você precisará de 1 balde de tinta")
-         sen�o
+         senao
 
 
 
@@ -36,11 +36,11 @@ se area<=20 entao
          m:=areaArred mod 40
          se m = 0 então
             escreval("Você precisará de ", d, " baldes de tinta")
-         sen�o
+         senao
             se m<=20 então
                escreval("Você precisará de ", d, " baldes de tinta e 1/2.")
 
-            sen�o
+            senao
                  escreval("Você precisará de ", d+1, " baldes de tinta")
 
                  fimse
