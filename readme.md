@@ -1,0 +1,2 @@
+# Exercícios VisualG
+Repositório com exercícios de lógica de programação programados em visualG, resolvidos como método avaliativo da matéria Algorítimos e Lógica de programação do curso de Engenharia de Software da Universidade do Estado da Bahia (UNEB) - Campus II, Alagoinhas.
